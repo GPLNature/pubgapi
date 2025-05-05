@@ -1,2 +1,1 @@
-# pubgapi
-Pubg bugbounty POC by @nvk0x
+# Pubg bugbounty POC by @nvk0x
